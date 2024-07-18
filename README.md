@@ -87,10 +87,12 @@ exp1.html
 ![image](https://github.com/user-attachments/assets/1cff2d17-cb2a-4d69-9f47-73c5759c382c)
 
 ## gallery.html
-![image](https://github.com/user-attachments/assets/e8af1c20-094c-4788-a471-79dc748996d2)
+![Uploading image.png…]()
+
 
 ## computer-science.html
-![image](https://github.com/user-attachments/assets/49979a6e-0705-47be-a606-42f97bb79c98)
+![image](https://github.com/user-attachments/assets/6b1941e5-1170-44f2-837d-ef33ad5ac3ea)
+
 
 
 
